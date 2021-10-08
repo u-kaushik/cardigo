@@ -1,6 +1,8 @@
 # Cardigo
 DOM manipulation project with 'leaflet' API using ES6 classes
 
+![cardigo](https://user-images.githubusercontent.com/83171355/136552566-f693d5e3-3ebe-46c4-a6eb-537ec4609937.png)
+
 https://cardigo.netlify.app/
 
 
